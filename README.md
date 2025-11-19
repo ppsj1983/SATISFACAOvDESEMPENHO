@@ -139,6 +139,8 @@ Na primeira etapa do projeto, focamos no desenvolvimento do modelo para coleta d
    2) Formação técnica
    3) Histórico de movimentações (mérito e promoções)
    4) Nível de cargo e experiência
+- Criação de frontend para coleta de informações Pesquisa de Clima
+- Criação de frontend para coleta de informações de Avaliação de Desempenho e FeedBack
 
 ## 🔧 Conclusão
 Aplicações com foco em análise de dados, machine learning ou inteligência artificial podem melhorar significativamente a gestão do ambiente de trabalho, influenciando diretamente a satisfação dos colaboradores, o engajamento e a produtividade. O modelo proposto nesta etapa do projeto explorou diversas perspectivas para a gestão organizacional. Além disso, os modelos de classificação e agrupamento possibilitaram segmentar os colaboradores com melhor desempenho.
