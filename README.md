@@ -77,7 +77,45 @@ Com base nas informações coletadas **Pesquisa de Clima** e **Feedback e Avalia
 - Análise de projetos de tecnologia, considerando a composição da equipe com base em medidas de desempenho e satisfação
 
 ## 🔧 Desenvolvimento
+- <b>.Quadrantes</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
+<p align="center">
+<img width="331" height="265" alt="Image" src="https://github.com/user-attachments/assets/b655f677-0a1c-47ce-9477-e524bea1c9ca" /></a>
+</p>
 
+- <b>.Risco Prioridade</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
+<p align="center">
+<img width="325" height="86" alt="Image" src="https://github.com/user-attachments/assets/3c97b0d7-fa70-4a10-95da-990ffebe87ef" /></a>
+</p>
+
+- <b>.Risco Prioridade</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
+<p align="center">
+<img width="325" height="86" alt="Image" src="https://github.com/user-attachments/assets/3c97b0d7-fa70-4a10-95da-990ffebe87ef" /></a>
+</p>
+
+- <b>.Avaliacao Gerentes</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
+<p align="center">
+<img width="560" height="287" alt="Image" src="https://github.com/user-attachments/assets/fc2226c8-fb14-416a-be8c-c517a5e136b0" /></a>
+</p>
+
+- <b>.Radar Colaboradores</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
+<p align="center">
+<img width="544" height="243" alt="Image" src="https://github.com/user-attachments/assets/f3bf17d5-6943-4f8c-b5f0-df2688f72aa2" /></a>
+</p>
+
+- <b>.Dendograma</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
+<p align="center">
+<img width="497" height="254" alt="Image" src="https://github.com/user-attachments/assets/2578d8e7-64e8-408e-9d6b-8a3cd88231d4" /></a>
+</p>
+
+- <b>.Box Plot</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
+<p align="center">
+<img width="541" height="273" alt="Image" src="https://github.com/user-attachments/assets/66d424cd-97de-4596-bb3b-a376848d0bf8" /></a>
+</p>
+
+- <b>.Correlacao</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
+<p align="center">
+<img width="532" height="359" alt="Image" src="https://github.com/user-attachments/assets/4c2911ab-c28f-474f-943a-189f50ce2643" /></a>
+</p>
 ## 🔧 Resultados
 
 ## 🔧 Conclusão
