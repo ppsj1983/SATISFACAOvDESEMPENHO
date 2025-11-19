@@ -56,7 +56,7 @@ Essa avaliação é conduzida pela liderança e serve como base para planos de d
 
 Ambos os módulos atuam de forma cíclica e integrada, promovendo uma cultura de melhoria contínua:
 - A liderança avalia o desempenho dos colaboradores, orientando o crescimento individual e coletivo.
-- Os colaboradores avaliam o clima organizacional, fornecendo insumos valiosos sobre o ambiente de trabalho.
+- Os colaboradores avaliam o clima organizacional, fornecendo informções sobre o ambiente de trabalho.
 - A combinação dessas perspectivas permite mensurar o impacto da liderança sobre o clima e a performance da equipe.
 
 Essa abordagem integrada fortalecerá a produtividade, engajamento e entrega de resultados.
