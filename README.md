@@ -85,7 +85,7 @@ Com base nas informações coletadas **Pesquisa de Clima** e **Feedback e Avalia
 
 - <b>.Alocação de Colaboradores - Nivel do Projeto</b>: Este estudo apresenta o desempenho de satisfação e produtividade das equipes alocadas para cada projeto, gerencialmente, projetos *estratégicos* necessitam dos colaboradores mais satisfeitos e com melhor desempenho, uma equipe motivada reduz o risco de atraso nas entregas com incremento nas capacidades técnicas, criatividade e resoluçao de problemas.
 <p align="center">
-<img width="325" height="86" alt="Image" src="https://github.com/user-attachments/assets/3c97b0d7-fa70-4a10-95da-990ffebe87ef" /></a>
+<img width="301" height="87" alt="Image" src="https://github.com/user-attachments/assets/2c249d7c-9b7f-46f6-b3dd-a91a961545c8" /></a>
 </p>
 
 - <b>.Alocação de Colaboradores - Nivel Prioridade</b>: Este estudo apresenta o desempenho de satisfação e produtiivdade das equipes alocadas para cada projeto, gerenciamente, projetos prioridade *alta* necessidadem dos colaboradores mais satisfeitos e com melhor desempenho.
