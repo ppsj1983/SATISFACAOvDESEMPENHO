@@ -75,8 +75,9 @@ Com base nas informações coletadas **Pesquisa de Clima** e **Feedback e Avalia
 - Acesso a banco de dados para consulta e consolidação de informações
 - Estudo de quadrantes de desempenho e satisfação
 - Análise de projetos de tecnologia, considerando a composição da equipe com base em medidas de desempenho e satisfação
-
 ## 🔧 Desenvolvimento
+
+## 🔧 Resultados
 - <b>.Quadrantes</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
 <p align="center">
 <img width="331" height="265" alt="Image" src="https://github.com/user-attachments/assets/b655f677-0a1c-47ce-9477-e524bea1c9ca" /></a>
@@ -116,7 +117,8 @@ Com base nas informações coletadas **Pesquisa de Clima** e **Feedback e Avalia
 <p align="center">
 <img width="532" height="359" alt="Image" src="https://github.com/user-attachments/assets/4c2911ab-c28f-474f-943a-189f50ce2643" /></a>
 </p>
-## 🔧 Resultados
+
+## 🔧 Proximos Passos
 
 ## 🔧 Conclusão
 
