@@ -93,17 +93,17 @@ Com base nas informações coletadas **Pesquisa de Clima** e **Feedback e Avalia
 <img width="325" height="86" alt="Image" src="https://github.com/user-attachments/assets/3c97b0d7-fa70-4a10-95da-990ffebe87ef" /></a>
 </p>
 
-- <b>.Avaliacao Gerentes</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
+- <b>.Avaliacao Gerentes</b>: Indicadores de clima organizacional são importantes para avaliação no nivel de gestão e capacidade dos lideres promoverem um bom ambiente de trabalho, este modelo é possivel comparar o desempenho individual de cada gestor considerando as dimensões de avaliação do clima organizacional.
 <p align="center">
 <img width="560" height="287" alt="Image" src="https://github.com/user-attachments/assets/fc2226c8-fb14-416a-be8c-c517a5e136b0" /></a>
 </p>
 
-- <b>.Radar Colaboradores</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
+- <b>.Radar Colaboradores</b>: Este estudo apresentam um modelo para comparação de desempenho entre os colaboradores, utiliza como referencia as dimensões de avaliação de desempenho e feedback .
 <p align="center">
 <img width="544" height="243" alt="Image" src="https://github.com/user-attachments/assets/f3bf17d5-6943-4f8c-b5f0-df2688f72aa2" /></a>
 </p>
 
-- <b>.Dendograma</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
+- <b>.Dendograma</b>: Utilizando um algoritmo de agrupamento k-means, este moledo realiza o agrupamento dos colaboradores considerando indicadores de desempenho individual.
 <p align="center">
 <img width="497" height="254" alt="Image" src="https://github.com/user-attachments/assets/2578d8e7-64e8-408e-9d6b-8a3cd88231d4" /></a>
 </p>
@@ -122,7 +122,7 @@ Com base nas informações coletadas **Pesquisa de Clima** e **Feedback e Avalia
 
 ## 🔧 Conclusão
 
-## 🔧 ReferÊncias
+## 🔧 Referências
 
 *Bellet, Clement and De Neve, Jan-Emmanuel and Ward, George, Does Employee Happiness have an Impact on Productivity? (October 14, 2019). Saïd Business School WP 2019-13, Available at SSRN: https://ssrn.com/abstract=3470734 or http://dx.doi.org/10.2139/ssrn.3470734*
 
