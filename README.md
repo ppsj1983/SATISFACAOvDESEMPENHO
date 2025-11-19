@@ -108,17 +108,26 @@ Com base nas informações coletadas **Pesquisa de Clima** e **Feedback e Avalia
 <img width="497" height="254" alt="Image" src="https://github.com/user-attachments/assets/2578d8e7-64e8-408e-9d6b-8a3cd88231d4" /></a>
 </p>
 
-- <b>.Box Plot</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
+- <b>.Box Plot</b>: Avaliação do desempenho medio considerando todas as notas do modulo de avaliação de desempenho e feedback, este modelo apresenta uma visão para comparação entre todos os colaboradores.
 <p align="center">
 <img width="541" height="273" alt="Image" src="https://github.com/user-attachments/assets/66d424cd-97de-4596-bb3b-a376848d0bf8" /></a>
 </p>
 
-- <b>.Correlacao</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
+- <b>.Correlacao</b>: Modelo desenvolvido para avaliação da correlação entre as dimensões que compõem o clima organizacional.
 <p align="center">
 <img width="532" height="359" alt="Image" src="https://github.com/user-attachments/assets/4c2911ab-c28f-474f-943a-189f50ce2643" /></a>
 </p>
 
 ## 🔧 Proximos Passos
+
+Na primeira etapa do projeto, focamos no desenvolvimento do modelo para coleta de informações e análises quantitativas. Para a próxima etapa do projeto, contemplaremos:
+- Módulo de Inteligência Artificial com foco na avaliação dos indicadores de clima organizacional e elaboração de propostas para melhoria nos indicadores de satisfação e desempenho.
+- Módulo de Inteligência Artificial para avaliação do quadro de recursos humanos, identificação de colaboradores com necessidade de movimentação (mérito, promoção, reconhecimento, desligamento etc.), utilizando como referência a matriz proposta pelos quadrantes de satisfação e desempenho.
+- Estudo dos fatores técnicos e individuais com impacto na satisfação e desempenho individual:
+   1) Tempo de empresa
+   2) Formação técnica
+   3) Histórico de movimentações (mérito e promoções)
+   4) Nível de cargo e experiência
 
 ## 🔧 Conclusão
 
