@@ -75,6 +75,11 @@ Com base nas informações coletadas **Pesquisa de Clima** e **Feedback e Avalia
 - Acesso a banco de dados para consulta e consolidação de informações
 - Estudo de quadrantes de desempenho e satisfação
 - Análise de projetos de tecnologia, considerando a composição da equipe com base em medidas de desempenho e satisfação
+## 🔧 Observações
+- <b>.Dados e Informações</b>: Os dados utilizados neste projeto, são **dados gerados de forma aleatória** para composição da base de dados e simulação.
+- <b>.Banco de Dados</b>: Utilização do servidor FIAP para armazenamento das informações.
+- <b>.Linguarem de Programação</b>: Python.
+
 ## 🔧 Desenvolvimento
 
 ## 🔧 Resultados
@@ -116,6 +121,11 @@ Com base nas informações coletadas **Pesquisa de Clima** e **Feedback e Avalia
 - <b>.Correlacao</b>: Modelo desenvolvido para avaliação da correlação entre as dimensões que compõem o clima organizacional.
 <p align="center">
 <img width="532" height="359" alt="Image" src="https://github.com/user-attachments/assets/4c2911ab-c28f-474f-943a-189f50ce2643" /></a>
+</p>
+
+- <b>.Modelo Preditivo</b>: Utiliza variaveis do clima organizacional para prever o desempenho do colaborador, nesta simulação a acuracia do modelo foi de 47,37% utilizando o algoritmo de Randow Forest, este resultado revela a necessidade do incremento de outras variveis para melhorar a assertividade do modelo.
+<p align="center">
+<img width="600" height="342" alt="Image" src="https://github.com/user-attachments/assets/d36812e4-9445-4c1a-8d1a-4d4fb02c7171" /></a>
 </p>
 
 ## 🔧 Proximos Passos
