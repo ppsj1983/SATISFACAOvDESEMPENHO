@@ -2,7 +2,8 @@
 
 <br>
 
-# Etapas de uma Máquina Agrícola - Explorando informações banco de dados
+# Ferramentas de monitoramento de bem-estar e saúde mental no trabalho. 
+## *Pesquisa de Clima e Avaliação de Desempenho*
 
 ## Nome do grupo
 
@@ -38,19 +39,48 @@ Como a tecnologia pode tornar o trabalho mais humano, inclusivo e sustentável n
 
 **Eixos temáticos:** Ferramentas de monitoramento de bem-estar e saúde mental no trabalho.
 
-## 📜 Problema e Proposta de Solução
+## 📁 Proposta
 
-Como a tecnologia pode tornar o trabalho mais humano, inclusivo e sustentável no futuro?
+a proposta de solução para o Global Solucion 2025 2º sem, considerar:
 
-**Eixos temáticos:** Ferramentas de monitoramento de bem-estar e saúde mental no trabalho.
+**Pesquisa de Clima:** A Pesquisa de Clima tem como foco principal a avaliação do ambiente organizacional sob a ótica dos colaboradores. Seu objetivo é identificar fatores que influenciam diretamente a motivação, satisfação e bem-estar no trabalho. Além disso, a pesquisa busca mensurar a eficácia da liderança, avaliando como os gestores contribuem para a construção de um ambiente saudável, produtivo e alinhado com os valores da organização. Neste modulo poderemos:
+- Diagnosticar pontos fortes e oportunidades de melhoria no ambiente de trabalho
+- Avaliar a percepção dos colaboradores sobre a atuação da liderança
+- Apoiar ações estratégicas de engajamento e retenção de talentos
 
+**Feedback e Avaliação de Desempenho** O módulo de Feedback e Avaliação de Desempenho tem como objetivo analisar o desempenho individual dos colaboradores. Neste modulo poderemos identificar:
+- Pontos de destaque e diferenciais de desempenho
+- Áreas que requerem desenvolvimento ou capacitação
+- Alinhamento com metas, competências e comportamentos esperados
+Essa avaliação é conduzida pela liderança e serve como base para planos de desenvolvimento, reconhecimento e evolução profissional
 
-## 📁 Documentação do projeto
+Ambos os módulos atuam de forma cíclica e integrada, promovendo uma cultura de melhoria contínua:
+- A liderança avalia o desempenho dos colaboradores, orientando o crescimento individual e coletivo.
+- Os colaboradores avaliam o clima organizacional, fornecendo insumos valiosos sobre o ambiente de trabalho.
+- A combinação dessas perspectivas permite mensurar o impacto da liderança sobre o clima e a performance da equipe.
 
-Descrição das etapas para análise das informações do banco de dados:
+Essa abordagem integrada fortalecerá a produtividade, engajamento e entrega de resultados.
 
+<p align="center">
+<img width="960" height="720" alt="Image" src="https://github.com/user-attachments/assets/3d83ce16-c031-4830-9f4e-e164337331bb" /></a>
+</p>
 
+Com base nas informações coletadas **Pesquisa de Clima** e **Feedback e Avaliação de Desempenho**, este projeto apresentará as seguintes soluções de IA e análise de dados:
+- Análise com gráfico de barras, considerando medidas de clima organizacional por gerente
+- Análise com gráfico de radar, considerando medidas de desempenho por colaborador
+- Correlação entre variáveis de desempenho e clima organizacional
+- Boxplot para análise de desempenho por colaborador
+- Algoritmo de machine learning para previsão de desempenho, considerando medidas de satisfação
+- Algoritmo de clusterização para agrupamento de colaboradores, com base em desempenho e satisfação
+- Acesso a banco de dados para consulta e consolidação de informações
+- Estudo de quadrantes de desempenho e satisfação
+- Análise de projetos de tecnologia, considerando a composição da equipe com base em medidas de desempenho e satisfação
 
+## 🔧 Desenvolvimento
+
+## 🔧 Resultados
+
+## 🔧 Conclusão
 
 ## 🔧 ReferÊncias
 
