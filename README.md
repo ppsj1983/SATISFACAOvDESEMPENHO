@@ -78,17 +78,17 @@ Com base nas informações coletadas **Pesquisa de Clima** e **Feedback e Avalia
 ## 🔧 Desenvolvimento
 
 ## 🔧 Resultados
-- <b>.Quadrantes</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
+- <b>.Quadrantes</b>: Modelo proposto considerando 2 variaveis, satisfação e desempenho, o gráfico de quadrantes possibilitou a distribuição de colaboradores, os quadrantes foram definidos com base no desempenho médio dos colaboradores.
 <p align="center">
 <img width="331" height="265" alt="Image" src="https://github.com/user-attachments/assets/b655f677-0a1c-47ce-9477-e524bea1c9ca" /></a>
 </p>
 
-- <b>.Risco Prioridade</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
+- <b>.Alocação de Colaboradores - Nivel do Projeto</b>: Este estudo apresenta o desempenho de satisfação e produtividade das equipes alocadas para cada projeto, gerencialmente, projetos *estratégicos* necessitam dos colaboradores mais satisfeitos e com melhor desempenho, uma equipe motivada reduz o risco de atraso nas entregas com incremento nas capacidades técnicas, criatividade e resoluçao de problemas.
 <p align="center">
 <img width="325" height="86" alt="Image" src="https://github.com/user-attachments/assets/3c97b0d7-fa70-4a10-95da-990ffebe87ef" /></a>
 </p>
 
-- <b>.Risco Prioridade</b>: seleção do método "inserir" para criação de uma nova tabela e importação de dados.
+- <b>.Alocação de Colaboradores - Nivel Prioridade</b>: Este estudo apresenta o desempenho de satisfação e produtiivdade das equipes alocadas para cada projeto, gerenciamente, projetos prioridade *alta* necessidadem dos colaboradores mais satisfeitos e com melhor desempenho.
 <p align="center">
 <img width="325" height="86" alt="Image" src="https://github.com/user-attachments/assets/3c97b0d7-fa70-4a10-95da-990ffebe87ef" /></a>
 </p>
