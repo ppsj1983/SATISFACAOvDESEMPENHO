@@ -141,6 +141,7 @@ Na primeira etapa do projeto, focamos no desenvolvimento do modelo para coleta d
 
 ## 🔧 Conclusão
 
+
 ## 🔧 Referências
 
 *Bellet, Clement and De Neve, Jan-Emmanuel and Ward, George, Does Employee Happiness have an Impact on Productivity? (October 14, 2019). Saïd Business School WP 2019-13, Available at SSRN: https://ssrn.com/abstract=3470734 or http://dx.doi.org/10.2139/ssrn.3470734*
