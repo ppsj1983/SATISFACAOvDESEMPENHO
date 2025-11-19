@@ -82,6 +82,7 @@ Com base nas informações coletadas **Pesquisa de Clima** e **Feedback e Avalia
 
 ## 🔧 Desenvolvimento
 
+
 ## 🔧 Resultados
 - <b>.Quadrantes</b>: Modelo proposto considerando 2 variaveis, satisfação e desempenho, o gráfico de quadrantes possibilitou a distribuição de colaboradores, os quadrantes foram definidos com base no desempenho médio dos colaboradores.
 <p align="center">
@@ -140,6 +141,8 @@ Na primeira etapa do projeto, focamos no desenvolvimento do modelo para coleta d
    4) Nível de cargo e experiência
 
 ## 🔧 Conclusão
+Aplicações com foco em análise de dados, machine learning ou inteligência artificial podem melhorar significativamente a gestão do ambiente de trabalho, influenciando diretamente a satisfação dos colaboradores, o engajamento e a produtividade. O modelo proposto nesta etapa do projeto explorou diversas perspectivas para a gestão organizacional. Além disso, os modelos de classificação e agrupamento possibilitaram segmentar os colaboradores com melhor desempenho.
+Nesta etapa, não foram exploradas as capacidades de diagnóstico e sugestão dos sistemas de inteligência artificial para geração de melhorias no clima organizacional ou no desempenho individual.
 
 
 ## 🔧 Referências
