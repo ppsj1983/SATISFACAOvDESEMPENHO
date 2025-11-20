@@ -191,6 +191,7 @@ Na primeira etapa do projeto, focamos no desenvolvimento do modelo para coleta d
    2) Formação técnica
    3) Histórico de movimentações (mérito e promoções)
    4) Nível de cargo e experiência
+   5) Faixa Salarial
 - Criação de frontend para coleta de informações Pesquisa de Clima
 - Criação de frontend para coleta de informações de Avaliação de Desempenho e FeedBack
 
