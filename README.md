@@ -79,9 +79,61 @@ Com base nas informações coletadas **Pesquisa de Clima** e **Feedback e Avalia
 - <b>.Dados e Informações</b>: Os dados utilizados neste projeto, são **dados gerados de forma aleatória** para composição da base de dados e simulação.
 - <b>.Banco de Dados</b>: Utilização do servidor FIAP para armazenamento das informações.
 - <b>.Linguarem de Programação</b>: Python.
+- <b>.Escala de Avaliação</b>: 1 até 5, onde 1 representa o pior resultado e 5 representa o melhor resultado.
 
 ## 🔧 Desenvolvimento
 
+- <b>.Servidor</b>: Utilização do servidor FIAP para armazenamento de 5 tabelas para composição do projeto
+- GS_2025_2SEM_CAD_EQUIPE_PROJ
+- GS_2025_2SEM_CAD_FEEDBACK
+- GS_2025_2SEM_CAD_PESQUISA
+- GS_2025_2SEM_CAD_PROJ
+- GS_2025_2SEM_CAD_RH.
+<p align="center">
+<img width="386" height="413" alt="Image" src="https://github.com/user-attachments/assets/c14ca3b5-15ab-4a42-be06-4a6439c8ee82" /></a>
+</p>
+
+- <b>.GS_2025_2SEM_CAD_FEEDBACK </b>: Tabela Cadastro Feedback, estrutura desenvolvida para armazenamento das avaliações de desempenho e feedback, considerando as dimensões de avaliação de desempenho, data da avaliação e identificação dos colaboradores avaliados.
+<p align="center">
+<img width="801" height="517" alt="Image" src="https://github.com/user-attachments/assets/b3cf2742-bb36-4f05-aa40-54bc21e9d864" /></a>
+</p>
+
+- <b>.GS_2025_2SEM_CAD_PESQUISA</b>: Tabela Pesquisa Clima, estrutura desenvolvida para armazenamento das avaliações de clima, considera as dimensões de avaliação de clima organizacional, data da pesquisa e identificação dos colaboradores respondentes .
+<p align="center">
+<img width="878" height="450" alt="Image" src="https://github.com/user-attachments/assets/f444a953-c659-45dc-b894-612d2b7ed619" /></a>
+</p>
+
+- <b>.GS_2025_2SEM_CAD_EQUIPE_PROJ</b>: Tabela Equipe Projeto, estrutura desenvolvida para associação dos colaboradores ao esforço de execução dos projetos de tecnologia da informação.
+<p align="center">
+<img width="767" height="244" alt="Image" src="https://github.com/user-attachments/assets/83e4a29d-7c57-434c-8b2e-3db1af26411d" /></a>
+</p>
+
+- <b>.GS_2025_2SEM_CAD_PROJ</b>: Tabela Cadastro de projeto, estrutura desenvolvida para gerenciamento do backlog de projetos, utiliza informações referente periodo de execução, descrição, prioridade e nivel estratégico.
+<p align="center">
+<img width="1009" height="484" alt="Image" src="https://github.com/user-attachments/assets/fcfe4f15-bec5-48ac-8dd9-d924c16e3c85" /></a>
+</p>
+
+- <b>.GS_2025_2SEM_CAD_RH</b>: Tabela Cadastro RH, estrutrua desenvolvida para armazenamento de informações dos colaboradores.
+<p align="center">
+<img width="911" height="394" alt="Image" src="https://github.com/user-attachments/assets/4d5db73d-fed0-4ebe-b080-deb52c99222c" /></a>
+</p>
+
+Nesta etapa do projeto, identificamos três estruturas fundamentais para o armazenamento das informações, que serão utilizadas posteriormente para o processamento, análise e suporte à melhoria do clima organizacional e das práticas de liderança
+
+- <b>.Tabela Avaliação de Desempenho</b>: 
+<p align="center">
+<img width="1794" height="643" alt="Image" src="https://github.com/user-attachments/assets/fc79f08d-a670-4f5e-9f4a-e99cc7de697e" /></a>
+</p>
+
+- <b>.Tabela Pesquisa de Clima</b>: 
+<p align="center">
+<img width="1825" height="658" alt="Image" src="https://github.com/user-attachments/assets/84f61f92-238b-495b-9426-0e32837f521e" /></a>
+</p>
+
+- <b>.Resumo de Projeto<</b>: 
+<p align="center">
+<img width="1716" height="497" alt="Image" src="https://github.com/user-attachments/assets/e50d7ded-2146-4c8a-8934-8f1607418b64" /></a>
+</p>
 
 ## 🔧 Resultados
 - <b>.Quadrantes</b>: Modelo proposto considerando 2 variaveis, satisfação e desempenho, o gráfico de quadrantes possibilitou a distribuição de colaboradores, os quadrantes foram definidos com base no desempenho médio dos colaboradores.
