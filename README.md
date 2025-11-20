@@ -41,7 +41,7 @@ Como a tecnologia pode tornar o trabalho mais humano, inclusivo e sustentável n
 
 ## 📁 Proposta
 
-a proposta de solução para o Global Solucion 2025 2º sem, considerar:
+a proposta de solução para o Global Solucion 2025 2º sem, considera:
 
 **Pesquisa de Clima:** A Pesquisa de Clima tem como foco principal a avaliação do ambiente organizacional sob a ótica dos colaboradores. Seu objetivo é identificar fatores que influenciam diretamente a motivação, satisfação e bem-estar no trabalho. Além disso, a pesquisa busca mensurar a eficácia da liderança, avaliando como os gestores contribuem para a construção de um ambiente saudável, produtivo e alinhado com os valores da organização. Neste modulo poderemos:
 - Diagnosticar pontos fortes e oportunidades de melhoria no ambiente de trabalho
