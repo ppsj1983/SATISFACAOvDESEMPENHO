@@ -1,17 +1,7 @@
-# FIAP - Faculdade de Informática e Administração Paulista
-
 <br>
 
 # Ferramentas de monitoramento de bem-estar e saúde mental no trabalho. 
 ## *Pesquisa de Clima e Avaliação de Desempenho*
-
-## Nome do grupo
-
-## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/paulo-pereira-de-souza-junior-mba-msc-0b497825/">Paulo Pereira de Souza Junior</a>
-
-## 👨‍🎓 Apresentacao: 
-- <a href="https://youtu.be/Nc2TrtWtWBQ">Video Apresentação - YOUTUBE</a>
 
 ## 📜 Introdução
 
